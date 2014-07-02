@@ -83,7 +83,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\AspNet.Identity.Bltoolkit\AspNet.Identity.Bltoolkit.csproj">
+    <ProjectReference Include="..\AspNet.Identity.Bltoolkit\AspNet.Identity.Bltoolkit.csproj">
       <Project>{2a18c276-ba70-44d7-aaeb-98d4ddd0bbc5}</Project>
       <Name>AspNet.Identity.Bltoolkit</Name>
     </ProjectReference>
